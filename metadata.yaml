@@ -1,0 +1,35 @@
+_repo: Statistical-Historical-and-Political-Description-of-the-Colony-of-New-South-Wales-and-its-Dep__15602
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wentworth, W. C. (William Charles)
+    alias: Wentworth, William Charles
+    birthdate: 1790
+    deathdate: 1872
+    gutenberg_agent_id: '6145'
+    url: http://www.gutenberg.org/2009/agents/6145
+    wikipedia: http://en.wikipedia.org/wiki/William_Wentworth
+description: ''
+gutenberg_bookshelf: Australia
+gutenberg_issued: '2005-04-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15602'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'New South Wales -- Politics and government'
+- !lcsh 'New South Wales -- Description and travel'
+- !lcc 'DU'
+- !lcsh 'Wentworth, W. C. (William Charles), 1790-1872'
+- !lcsh 'Tasmania -- Description and travel'
+title: "Statistical, Historical and Political Description of the Colony of New South\
+  \ Wales and its Dependent Settlements in Van Diemen's Land\r\nWith a Particular\
+  \ Enumeration of the Advantages Which These Colonies Offer for Emigration, and Their\
+  \ Superiority in Many Respects Over Those Possessed by the United States of America"
+url: http://www.gutenberg.org/ebooks/15602
